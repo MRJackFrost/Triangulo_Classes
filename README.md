@@ -3,7 +3,6 @@
 ## Status do Projeto: ✔️ Concluído
 
 ## Tópicos
-<a name="ancora1">aaa</a>
 🔹 Descrição do projeto
 
 🔹 Funcionalidades
@@ -31,7 +30,6 @@
 🔹 Informações Extras
 
 ## Descrição do projeto
-<a id="ancora1">a</a>
 Este projeto foi visado para calcular a area de dois triangulos(X e Y) e definir qual deles será o maior
 
 ## Funcionalidades ⚙️
