@@ -3,7 +3,8 @@
 ## Status do Projeto: ✔️ Concluído
 
 ## Tópicos
-🔹 Descrição do projeto 
+<a name="ancora"> ancora </a>
+🔹 Descrição do projeto
 
 🔹 Funcionalidades
 
@@ -30,6 +31,7 @@
 🔹 Informações Extras
 
 ## Descrição do projeto
+<a id="ancora1">a</a>
 Este projeto foi visado para calcular a area de dois triangulos(X e Y) e definir qual deles será o maior
 
 ## Funcionalidades ⚙️
@@ -59,26 +61,16 @@ Sem acesso a banco de dados
 ## Linguagens, dependencias e libs utilizadas 📚
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-XML
-...
-Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
-
 ## Resolvendo Problemas 
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
+Sem nenhum problema durante o projeto
 
 ## Recursos de inseridos 🧰
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
-
-📝 Tarefa 1
-
-📝 Tarefa 2
-
-📝 Tarefa 3
+Nenhum recurso a ser adicionado(projeto finalizado)
 
 ## Desenvolvedores/Contribuintes:
-Liste o time responsável pelo desenvolvimento do projeto
+MRjackFrost - Bruno
 
 ## Licença
 The MIT License (MIT)
 
-## Copyright ©️ Ano - Titulo do Projeto
+## Copyright ©️ 2023 - Triangulo com Classes
