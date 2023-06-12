@@ -57,7 +57,7 @@ Utilização de imagens e descrição do qeu foi testado.
 Sem acesso a banco de dados
 
 ## Linguagens, dependencias e libs utilizadas 📚
-[C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 XML
 ...
