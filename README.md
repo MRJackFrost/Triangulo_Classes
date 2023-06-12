@@ -40,25 +40,24 @@ Este projeto foi visado para calcular a area de dois triangulos(X e Y) e definir
 ✔️ Define e mostra qual o maior triangulo
 
 ## Distribuição
-[Link para teste da versão disponibilizada.](https://github.com/MRJackFrost/Triangulo_Classes)
+[Link para teste da versão disponibilizada.](https://github.com/MRJackFrost/Triangulo_Classes/blob/master/Program.cs)
 
 ## Pré-requisitos ⚠️    
-Versão do Android; 
-SDK; 
+Um compilador de linguagem C#;
 Aparelho utilizado para testes.
-- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
+- Compilador C# e suas bibliotecas padrões
 
 ## Como rodar a aplicação 
-Explicação de como se deve utilizar o projeto.
+o arquivo deve ser inserido em um compilador(como o visual studio) ou faça o download do projeto e abra no mesmo compilador
 
 ## Testes realizados
 Utilização de imagens e descrição do qeu foi testado.
 
 ## Banco de Dados 🗂️
-Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
+Sem acesso a banco de dados
 
 ## Linguagens, dependencias e libs utilizadas 📚
-![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+[C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 XML
 ...
