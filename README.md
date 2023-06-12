@@ -1,6 +1,6 @@
-# Titulo ou Arte do Projeto
+# Triangulo com Classe
 ## Versão: 1.0 
-## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
+## Status do Projeto: ✔️ Concluído
 
 ## Tópicos
 🔹 Descrição do projeto 
@@ -29,25 +29,18 @@
 
 🔹 Informações Extras
 
-
-...
-
-Insira os tópicos do README em links para facilitar a navegação do leitor
-
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+Este projeto foi visado para calcular a area de dois triangulos(X e Y) e definir qual deles será o maior
 
 ## Funcionalidades ⚙️
-✔️ Funcionalidade 1
+✔️ Conversa com o usuario para receber o valor
 
-✔️ Funcionalidade 2
+✔️ Calcula as areas dos com os valores recebidos
 
-✔️ Funcionalidade 3
-
-✔️ Funcionalidade 4
+✔️ Define e mostra qual o maior triangulo
 
 ## Distribuição
-Link para teste da versão disponibilizada.
+[Link para teste da versão disponibilizada.](https://github.com/MRJackFrost/Triangulo_Classes)
 
 ## Pré-requisitos ⚠️    
 Versão do Android; 
